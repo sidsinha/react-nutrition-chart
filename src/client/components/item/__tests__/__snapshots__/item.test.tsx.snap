@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  class="flex pv3 justify-around bb b--moon-gray bg-washed-red item"
+>
+  <div
+    class="ml3"
+    style="flex: 0.25;"
+  >
+    <input
+      checked=""
+      data-testid="checkbox_nutrition"
+      id="item-Oreo-checkbox"
+      name="nutrition"
+      type="checkbox"
+      value="1"
+    />
+  </div>
+  <div
+    class="item-name"
+    style="flex: 1;"
+  >
+    Oreo
+  </div>
+  <div
+    class="tc"
+    style="flex: 0.5;"
+  >
+    319
+  </div>
+  <div
+    class="tc"
+    style="flex: 0.5;"
+  >
+    23
+  </div>
+  <div
+    class="tc"
+    style="flex: 0.5;"
+  >
+    123
+  </div>
+  <div
+    class="tc"
+    style="flex: 0.5;"
+  >
+    45
+  </div>
+</div>
+`;

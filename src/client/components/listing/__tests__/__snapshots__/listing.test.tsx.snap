@@ -1,0 +1,214 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  class="items"
+  id="item-listing"
+>
+  <div
+    class="bg-white flex pv3 justify-around  bb b--moon-gray b"
+  >
+    <div
+      class="ml3"
+      style="flex: 0.25;"
+    >
+      <input
+        type="checkbox"
+      />
+    </div>
+    <div
+      class=""
+      style="flex: 1;"
+    >
+      Dessert(100g serving)
+      <span
+        class="pointer ml1 f6 blue"
+      >
+        ⇅
+      </span>
+    </div>
+    <div
+      class="tc"
+      style="flex: 0.5;"
+    >
+      Calories
+      <span
+        class="pointer ml1 f6 false"
+      >
+        ⇅
+      </span>
+    </div>
+    <div
+      class="tc"
+      style="flex: 0.5;"
+    >
+      Fat (g)
+      <span
+        class="pointer ml1 f6 false"
+      >
+        ⇅
+      </span>
+    </div>
+    <div
+      class="tc"
+      style="flex: 0.5;"
+    >
+      Carbs (g)
+      <span
+        class="pointer ml1 f6 false"
+      >
+        ⇅
+      </span>
+    </div>
+    <div
+      class="tc"
+      style="flex: 0.5;"
+    >
+      Protein (g)
+      <span
+        class="pointer ml1 f6 false"
+      >
+        ⇅
+      </span>
+    </div>
+  </div>
+  <div
+    class="flex pv3 justify-around bb b--moon-gray false item"
+  >
+    <div
+      class="ml3"
+      style="flex: 0.25;"
+    >
+      <input
+        data-testid="checkbox_nutrition"
+        id="item-Oreo-checkbox"
+        name="nutrition"
+        type="checkbox"
+        value="1"
+      />
+    </div>
+    <div
+      class="item-name"
+      style="flex: 1;"
+    >
+      Oreo
+    </div>
+    <div
+      class="tc"
+      style="flex: 0.5;"
+    >
+      437
+    </div>
+    <div
+      class="tc"
+      style="flex: 0.5;"
+    >
+      18
+    </div>
+    <div
+      class="tc"
+      style="flex: 0.5;"
+    >
+      63
+    </div>
+    <div
+      class="tc"
+      style="flex: 0.5;"
+    >
+      4
+    </div>
+  </div>
+  <div
+    class="flex pv3 justify-around bb b--moon-gray false item"
+  >
+    <div
+      class="ml3"
+      style="flex: 0.25;"
+    >
+      <input
+        data-testid="checkbox_nutrition"
+        id="item-Nougat-checkbox"
+        name="nutrition"
+        type="checkbox"
+        value="2"
+      />
+    </div>
+    <div
+      class="item-name"
+      style="flex: 1;"
+    >
+      Nougat
+    </div>
+    <div
+      class="tc"
+      style="flex: 0.5;"
+    >
+      308
+    </div>
+    <div
+      class="tc"
+      style="flex: 0.5;"
+    >
+      19
+    </div>
+    <div
+      class="tc"
+      style="flex: 0.5;"
+    >
+      9
+    </div>
+    <div
+      class="tc"
+      style="flex: 0.5;"
+    >
+      37
+    </div>
+  </div>
+  <div
+    class="flex pv3 justify-around bb b--moon-gray false item"
+  >
+    <div
+      class="ml3"
+      style="flex: 0.25;"
+    >
+      <input
+        data-testid="checkbox_nutrition"
+        id="item-Marshmallow-checkbox"
+        name="nutrition"
+        type="checkbox"
+        value="3"
+      />
+    </div>
+    <div
+      class="item-name"
+      style="flex: 1;"
+    >
+      Marshmallow
+    </div>
+    <div
+      class="tc"
+      style="flex: 0.5;"
+    >
+      318
+    </div>
+    <div
+      class="tc"
+      style="flex: 0.5;"
+    >
+      0
+    </div>
+    <div
+      class="tc"
+      style="flex: 0.5;"
+    >
+      81
+    </div>
+    <div
+      class="tc"
+      style="flex: 0.5;"
+    >
+      2
+    </div>
+  </div>
+</div>
+`;
